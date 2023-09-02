@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>Fonts/helvetica_bold.otf</file>
+    <file>Fonts/helvetica_regular.otf</file>
+    <file>Fonts/Circe-Regular.ttf</file>>
+</qresource>
+</RCC>
